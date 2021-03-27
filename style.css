@@ -1,0 +1,22 @@
+
+body{
+    background-color: antiquewhite;
+}
+#sound{
+    display: none;
+}
+.container{
+    text-align: center;
+}
+#começar{
+    background: #069 ;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: 0;
+}
+h3{ text-align: center;
+ }
+   
+
